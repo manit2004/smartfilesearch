@@ -6,12 +6,17 @@ Traditional file explorer search tools rely on exact keyword matches to retrieve
 
 This project introduces a novel approach to file exploration through semantic search capabilities. By harnessing the power of natural language processing and semantic embeddings, users can now search for files and folders in a directory with enhanced flexibility and accuracy. Unlike traditional search methods, which depend on precise matches, semantic search can understand the context and semantics of the query, enabling it to return relevant results even when there are spelling mistakes, missing spaces, or slight deviations in the query terms.
 
-Key Features:
-Flexibility: Users can input search queries in natural language, allowing for more intuitive and expressive searches.
-Enhanced Relevance Ranking: Semantic search employs advanced algorithms to rank search results based on their semantic similarity to the query. This ensures that the most relevant files and folders are presented to the user at the top of the search results, improving the efficiency and effectiveness of the search process.
-Robustness: Semantic search can handle spelling errors, missing spaces, and variations in query terms, ensuring robust search results.
-Contextual Understanding: By understanding the context of the search query, semantic search can retrieve relevant files and folders even when the query is not an exact match.
-Enhanced Exploration: Users can explore files and folders in a directory more efficiently and effectively, reducing the time and effort required to locate specific items.
+## Key Features
+### Flexibility:
+Users can input search queries in natural language, allowing for more intuitive and expressive searches.
+### Enhanced Relevance Ranking:
+Semantic search employs advanced algorithms to rank search results based on their semantic similarity to the query. This ensures that the most relevant files and folders are presented to the user at the top of the search results, improving the efficiency and effectiveness of the search process.
+### Robustness: 
+Semantic search can handle spelling errors, missing spaces, and variations in query terms, ensuring robust search results.
+### Contextual Understanding:
+By understanding the context of the search query, semantic search can retrieve relevant files and folders even when the query is not an exact match.
+### Enhanced Exploration:
+Users can explore files and folders in a directory more efficiently and effectively, reducing the time and effort required to locate specific items.
 With semantic search, the file exploration experience is transformed, offering users a more seamless and productive way to navigate through their files and folders.
 
 ## Requirements
