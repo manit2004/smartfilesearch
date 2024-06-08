@@ -54,7 +54,7 @@ With semantic search, the file exploration experience is transformed, offering u
 ## Note
 
 - Ensure that you have the necessary permissions to access the directories you want to scan.
-- You can customize the search behavior by modifying the search query, the number of top results (`k`), and the embedding model in the `semantic_search.py` script.
+- You can customize the search behavior by modifying the search query, the number of top results (`k`), and the embedding model in the `search.py` script.
 
 
 
