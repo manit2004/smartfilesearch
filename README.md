@@ -1,6 +1,4 @@
-# smartfilesearch
-
-# Semantic Search for File Explorer
+# Smart Search for File Explorer
 
 Traditional file explorer search tools rely on exact keyword matches to retrieve files and folders, often resulting in frustrating experiences when a user misspells, mistypes, or slightly deviates from the actual file or folder name. In such cases, finding the desired item becomes a tedious task.
 
